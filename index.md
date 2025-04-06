@@ -20,3 +20,7 @@ baseline_score = -1 * baseline_score.mean()
 
 print(f"MAE Baseline Score: {baseline_score:.4}")
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
